@@ -1,6 +1,6 @@
-$fn=100;
+$fn=10;
 
-diameter_plate = 6.2;     //DIAMETER!
+diameter_plate = 6.2;     //DIAMETER in mm!
 thickness_plate = 4;
 
 module plate(){
